@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Muhammad Razan Fawwaz</h3>
 <h4 align="center">2008107010098</h4>
+
+<div align="center" class="tenor-gif-embed" data-postid="19395472" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/nassar-seperti-mati-lampu-ya-sayang-gif-19395472">Nassar Seperti Mati Lampu GIF</a> from <a href="https://tenor.com/search/nassar-gifs">Nassar GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **razanfawwaz/razanfawwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
