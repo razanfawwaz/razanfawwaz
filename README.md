@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Muhammad Razan Fawwaz</h3>
 <h4 align="center">2008107010098</h4>
+[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=razanfawwaz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **razanfawwaz/razanfawwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
